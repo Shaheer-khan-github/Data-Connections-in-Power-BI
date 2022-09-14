@@ -5,3 +5,8 @@ Data connections are an essential part of Power BI. In this repository, you will
 
 ### Difference between Power BI Desktop and Power BI Service
 <img width="640" alt="Desktop vs Service" src="https://user-images.githubusercontent.com/59821979/190060639-6ea2f0f6-c8a9-4385-b94b-d78283270cc3.PNG">
+
+-----
+
+### Data Connection in Power BI Desktop vs Service
+<img width="642" alt="Data Connection in Power BI Desktop vs Service" src="https://user-images.githubusercontent.com/59821979/190060862-9c2e9f66-2e10-4b24-bcee-862e7e6744eb.PNG">
