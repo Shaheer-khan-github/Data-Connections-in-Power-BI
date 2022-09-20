@@ -10,3 +10,7 @@ Data connections are an essential part of Power BI. In this repository, you will
 
 ### Data Connection in Power BI Desktop and Power BI Service
 <img width="642" alt="Data Connection in Power BI Desktop vs Service" src="https://user-images.githubusercontent.com/59821979/190060862-9c2e9f66-2e10-4b24-bcee-862e7e6744eb.PNG">
+
+-----
+### Parameters in power BI
+<img width="645" alt="Parameters" src="https://user-images.githubusercontent.com/59821979/191313394-0226d5b1-a8fd-4481-bdc7-e0e61a3d46a7.PNG">
