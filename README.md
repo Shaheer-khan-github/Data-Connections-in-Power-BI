@@ -14,3 +14,8 @@ Data connections are an essential part of Power BI. In this repository, you will
 -----
 ### Parameters in power BI
 <img width="645" alt="Parameters" src="https://user-images.githubusercontent.com/59821979/191313394-0226d5b1-a8fd-4481-bdc7-e0e61a3d46a7.PNG">
+
+-----
+![Screenshot (111)](https://user-images.githubusercontent.com/59821979/192160006-f3340b3f-a6e0-47f3-8f80-01a678c563e0.png)
+![Screenshot (112)](https://user-images.githubusercontent.com/59821979/192160010-ed3d983d-66df-46ec-8aa1-950811b41b18.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/59821979/192160012-ee3ad21e-74d3-442e-bcfa-29a3ff9c314a.png)
